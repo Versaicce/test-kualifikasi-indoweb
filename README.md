@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![Preview](https://github.com/user-attachments/assets/3c7cecf4-63f0-4162-b470-659d750b421a)
+![test1](https://github.com/user-attachments/assets/5f1659cc-efb2-4847-a53d-010615158e0a)
 
 # Tes Kualifikasi IndoWeb
 
