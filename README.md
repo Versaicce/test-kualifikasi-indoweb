@@ -1,6 +1,8 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5f1659cc-efb2-4847-a53d-010615158e0a" height="500" width="600" alt="Preview">
+    <img src="https://github.com/user-attachments/assets/e474a853-1794-492e-a370-d6f5863d8fed" height="500" width="600" alt="Preview">
+</p>
 
-<img src="https://github.com/user-attachments/assets/5f1659cc-efb2-4847-a53d-010615158e0a" height="500" width="600" alt="Preview">
-<img src="https://github.com/user-attachments/assets/e474a853-1794-492e-a370-d6f5863d8fed" height="500" width="600" alt="Preview">
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
